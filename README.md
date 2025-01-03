@@ -5,9 +5,13 @@ This repository showcases an engaging and interactive Letter Guessing Game built
 Key features include:
 
 Dynamic Input Validation:      Ensures that only valid alphabetic characters are accepted.
+
 Real-Time Feedback:      Displays personalized alerts for correct or incorrect guesses.
+
 Attempts Counter:              Tracks and updates the number of attempts dynamically.
+
 Reset Functionality:      Allows players to start fresh with a new randomly selected letter.
+
 Responsive Design:        Ensures a seamless user experience across devices.
 Clean and Modern UI: Aesthetic design with CSS variables for easy theme customization.
 
